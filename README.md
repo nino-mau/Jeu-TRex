@@ -1,6 +1,6 @@
 # README
 
-## Comment push
+## Comment enregister les changements
 
 ```bash
 git add *
